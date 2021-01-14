@@ -11,5 +11,10 @@ Docs: https://www.youtube.com/watch?v=IHjzyhjKxtc, https://www.youtube.com/watch
 ### Promises 
 https://jsfiddle.net/sytnei/huxsbdav/3/
 
+### ASYNC/AWAIT
+https://jsfiddle.net/sytnei/kw6nab3c/17/
+
 Doc: https://javascript.info/promise-api
 
+### WebSockets Test (in progress)
+https://www.websocket.org/echo.html
