@@ -21,3 +21,6 @@ https://www.websocket.org/echo.html
 
 ### Demo React app
 http://jsfiddle.net/sytnei/zeqgcnvs/5/
+
+### React Redux doc
+https://react-redux.js.org/introduction/basic-tutorial
